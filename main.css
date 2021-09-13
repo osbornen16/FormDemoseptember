@@ -1,0 +1,13 @@
+form{
+   border: 2px;
+    background-color: chartreuse;
+    margin-top: 50vh;
+}
+
+input{
+    display:block;
+    margin:auto;
+    margin: 4px auto;
+    /* margin: 4px; just 4px will do all sides */
+}
+
